@@ -7,12 +7,12 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '个人分享',
+  name: '记录四季',
   domain: 'https://pattern-settee-735.notion.site/96452d4a5dda4ed5a83c64ea1b38859f',
-  author: 'lakeyboy',
+  author: 'zhongzh',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '记录四季',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
