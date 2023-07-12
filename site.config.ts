@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '',
+  name: '我的记录',
   domain: 'https://pattern-settee-735.notion.site/96452d4a5dda4ed5a83c64ea1b38859f',
   author: 'zhongzh',
 
